@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenGL</string>
+    <string name="squ_butt_val">Square</string>
+    <string name="tri_butt_val">Triangle</string>
+</resources>
